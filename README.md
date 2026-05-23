@@ -316,8 +316,8 @@ docker run -it --env-file .env nexus-guild-migrator
 DISCORD_TOKEN=seu_token_aqui
 
 # IDs dos Servidores
-SERVIDOR_ORIGEM=1291985673594736662
-SERVIDOR_DESTINO=1204220501325643833
+SERVIDOR_ORIGEM=
+SERVIDOR_DESTINO=
 
 # Configurações Opcionais
 LOG_LEVEL=INFO          # DEBUG, INFO, WARNING, ERROR
