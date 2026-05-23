@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/uvL3crY" alt="Nexus Guild Migrator Banner" width="100%">
+<img src="https://imgur.com/uvL3crY.png" alt="Nexus Guild Migrator Banner" width="100%">
 
 # 🔄 Nexus Guild Migrator
 
